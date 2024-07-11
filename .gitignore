@@ -1,0 +1,11 @@
+node_modules/
+
+.npmrc
+.env
+
+*.log
+npm-debug.log*
+
+dist/
+coverage/
+screenshots/
